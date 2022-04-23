@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Acme Web Design",
+			"path": "."
+		},
+		{
+			"name": "fontawesome",
+			"path": "..\\..\\Desktop\\fontawesome"
+		},
+		{
+			"name": "fontawesome-free-5.15.4-web",
+			"path": "..\\..\\Desktop\\fontawesome\\fontawesome-free-5.15.4-web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Acme Web Design"
+	}
+}
