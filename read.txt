@@ -25,7 +25,7 @@
       <div class="container">
         <h1 class="logo text-light">
           <span class="highlight">Acme</span>
-          Web Design
+          Web Design hello everyone
         </h1>
 
         <ul class="nav-bar">
